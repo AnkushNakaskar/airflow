@@ -11,7 +11,7 @@
         * pip3 install apache-airflow[gcp,sentry,statsd]
         * pip3 install pyspark
         * pip3 install sklearn
-        - Now the airflow is install on path : cd /User/ankush.nakaskar/airflow
+        - Now the airflow is install on path : cd /Users/ankush.nakaskar/airflow/
         * to check the all the DB creation for DAG store and meta data , run below cmds
             * airflow db init
             * Create user :
